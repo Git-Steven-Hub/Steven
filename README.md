@@ -29,7 +29,6 @@
 <img width="75" alt="python" src="https://github.com/user-attachments/assets/1fa2e6c3-2aeb-497a-b34a-965e35817534" />
 <img width="75" alt="sqlite" src="https://github.com/user-attachments/assets/90f40030-247d-4019-b22b-ca02e1f4a06f" />
 <img width="75" alt="mysql" src="https://github.com/user-attachments/assets/ce37d553-b97b-4ac6-9b22-062a8009bbc0" />
-<img width="75" alt="postgresql" src="https://github.com/user-attachments/assets/86a750b6-58a8-4672-8dd6-4f5ec78e08ed" />
 
 ## GitHub Stats 📶
-![Git-Steven-Hub GitHub stats](https://github-readme-stats.vercel.app/api?username=Git-Steven-Hub&show_icons=true&theme=tokyonight)
+![Git-Steven-Hub GitHub stats](https://github-readme-stats.vercel.app/api?username=Git-Steven-Hub&show_icons=true&theme=algolia)
