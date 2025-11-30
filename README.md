@@ -32,4 +32,4 @@
 <img width="75" alt="postgresql" src="https://github.com/user-attachments/assets/86a750b6-58a8-4672-8dd6-4f5ec78e08ed" />
 
 ## GitHub Stats 📶
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Git-Steven-Hub&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Git-Steven-Hub&show_icons=true&theme=tokyonight)
