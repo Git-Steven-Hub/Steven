@@ -31,4 +31,4 @@
 <img width="75" alt="mysql" src="https://github.com/user-attachments/assets/ce37d553-b97b-4ac6-9b22-062a8009bbc0" />
 
 ## GitHub Stats 📶
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Git-Steven-Hub)](https://github.com/Git-Steven-Hub/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Git-Steven-Hub&show_icons=true&theme=radical)]
